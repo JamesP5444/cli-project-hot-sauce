@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/hottest_hot_sauce.rb'
+
+HottestHotSauce::CLI.new.call
